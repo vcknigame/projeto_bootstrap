@@ -1,0 +1,33 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color: #F5ECCE;
+}
+
+.quemsomos{
+    background-color: #E6E6E6;
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.links_uteis{
+    background-color: #E6E6E6;
+}
+
+.contato {
+    background-color: #F5ECCE;
+}
+
+footer {
+    font: 12px Arial, sans-serif;
+    background-color: #F5ECCE;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white
+}
